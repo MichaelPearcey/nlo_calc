@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "eta_shg_pct_per_W_cm2": 1592.4170616113745,
+    "eta_dfg_pct_per_W_cm2": 1000.0,
+    "L_cm": 1.0,
+    "pump_dBm": 10.09478672985782,
+    "signal_dBm": 15.0,
+    "lam_p_nm": 1550.0,
+    "lam_s_nm": 1530.0,
+    "in_cpl_dB_p": 1.5,
+    "in_cpl_dB_s": 1.5,
+    "out_cpl_dB_i": 1.5,
+    "prop_dB_per_cm_p": 0.1,
+    "prop_dB_per_cm_s": 0.1,
+    "prop_dB_per_cm_2w": 0.3,
+    "prop_dB_per_cm_i": 0.1,
+    "filt_xt_dB_p": 0.0,
+    "filt_xt_dB_s": 0.0,
+    "filt_xt_dB_2w": 0.0
+  },
+  "depletion": true,
+  "saved_date": "2025-01-01T00:00:00",
+  "version": "1.0"
+}
